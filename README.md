@@ -49,6 +49,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5eWZ6eHNtZ2c0amt1bmx0eGxkOHJ6d3A4NnhjZnp6c2V5azlucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
 
 ###
