@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
@@ -29,31 +29,29 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5eWZ6eHNtZ2c0amt1bmx0eGxkOHJ6d3A4NnhjZnp6c2V5azlucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/feed/playlists" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/ssr14feb?igsh=YzljYTk1ODg3Zg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/channels/1022510020736331806/1185469133723271218" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/sonu-kumar-4438922a5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY5eWZ6eHNtZ2c0amt1bmx0eGxkOHJ6d3A4NnhjZnp6c2V5azlucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3CtEsJ72j86DIumaJ/giphy.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/SSR14FEB/SSR14FEB/output/snake.svg" alt="Snake animation" />
 
