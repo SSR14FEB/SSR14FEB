@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sonu Kumar and I'm a Frontend Developer</h2>
+<h2 align="center">On the journey to becoming a Full-Stack Developer!</h2>
 
 ###
 
